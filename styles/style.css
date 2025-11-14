@@ -312,12 +312,12 @@ label[for],
   display: -webkit-box;
   margin-top: 6px;
   overflow: hidden;
-  color: #fff;
+  color:#fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
-  line-height: 16.2 / 18;
+  line-height: 0.9;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
 }
